@@ -68,4 +68,4 @@ crashlytics-build.properties
 fabric.properties
 .gitignore
 .idea/workspace.xml
-src/
+
